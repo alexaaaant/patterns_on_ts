@@ -11,7 +11,7 @@ class Leaf extends Component {
 }
 
 class Container extends Component {
-    private children: Component[];
+    private children!: Component[];
 
     operation() {
         this.children.forEach((child) => child.operation());
@@ -24,6 +24,6 @@ class Container extends Component {
 }
 
 let cont = new Container();
-let leaf = new Leaf;
+let leaf = new Leaf();
 cont.addChild(leaf);
 cont.operation();

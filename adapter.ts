@@ -1,5 +1,5 @@
 class RoundHole {
-    private radius: number;
+    private radius!: number;
     getRadius() { }
     fits(roundPeg: RoundPeg) {
         return this.radius >= roundPeg.getRadius();
@@ -17,7 +17,7 @@ class RoundPeg {
 }
 
 class Square {
-    private weight: number;
+    private weight!: number;
     getWidth() {
         return this.weight;
     }

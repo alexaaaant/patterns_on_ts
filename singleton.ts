@@ -1,21 +1,22 @@
-class Singleton {
-    private static instance: Singleton;
+(function () {
+    class Singleton {
+        private static instance: Singleton;
 
-    private constructor() { }
+        private constructor() { }
 
-    public static getInstance() {
-        if (this.instance === null) {
-            this.instance = new Singleton();
+        public static getInstance() {
+            if (!this.instance) {
+                this.instance = new Singleton();
+            }
+            return this.instance;
         }
-        return this.instance;
+
+        public someLogic() { }
     }
 
-    public someLogic() { }
-}
+    let s = Singleton.getInstance();
+    let d = Singleton.getInstance();
+    console.log(s === d)
 
-let s = Singleton.getInstance();
-let d = Singleton.getInstance();
-
-(s === d)
-
-d.someLogic();
+    d.someLogic();
+})();

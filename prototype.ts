@@ -1,7 +1,7 @@
 class Prototype {
     public primitive: any;
-    public component: Object;
-    public circleRef: ComponentWithBackRef;
+    public component!: Object;
+    public circleRef!: ComponentWithBackRef;
 
     clone() {
         let clone = Object.create(this);
@@ -18,7 +18,7 @@ class ComponentWithBackRef {
     public prototype: Prototype;
 
     constructor(prototype: Prototype) {
-        this.prototype = new Prototype();
+        this.prototype = prototype;
     }
 }
 

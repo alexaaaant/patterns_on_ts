@@ -54,8 +54,8 @@ class FactoryB extends FactoryM {
 }
 
 class AppM {
-    private typeFactory: FactoryM;
-    createFactory(type) {
+    private typeFactory!: FactoryM;
+    createFactory() {
         this.typeFactory = new FactoryA();
     }
     createChair() {

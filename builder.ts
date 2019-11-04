@@ -8,7 +8,7 @@ abstract class Builder {
 }
 
 class CarBuilder extends Builder {
-    private car: Car;
+    private car!: Car;
     reset() {
         this.car = new Car()
     }
@@ -20,7 +20,7 @@ class CarBuilder extends Builder {
 }
 
 class ManualBuilder extends Builder {
-    private manual: Manual;
+    private manual!: Manual;
     reset() {
         this.manual = new Manual()
     }

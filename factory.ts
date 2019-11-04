@@ -45,7 +45,7 @@ class DeskFactory extends Factory {
 }
 
 class App {
-    private dialog: Factory;
+    private dialog!: Factory;
 
     createWeb() {
         this.dialog = new WebFactory();
