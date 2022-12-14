@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T04:26:44.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="vH_bkNblacyJazhMaq8x" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T04:38:25.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="1splctWTHxIvikNUODjO" version="20.6.2" type="github">
   <diagram id="VVtSz9ZrSbKsasLM-zCI" name="Page-1">
     <mxGraphModel dx="1351" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,16 +22,16 @@
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-3" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eO3oUB2gQDBbp09vtR7Z-6" value="Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="eO3oUB2gQDBbp09vtR7Z-6" value="Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="70" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eO3oUB2gQDBbp09vtR7Z-7" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Non-functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Scalability&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Supporting web and desktop firstly&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Internalisation&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Themes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Scalable way of&amp;nbsp;communication between super app and mini-apps&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Open mini app in a new tab until they are supported&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="eO3oUB2gQDBbp09vtR7Z-7" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Non-functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Scalability&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Supporting web and desktop firstly&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Internalisation&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Themes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Scalable way of&amp;nbsp;communication between super app and mini-apps&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Open mini app in a new tab until they are supported&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Support super app auth&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="70" y="460" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-8" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Opening any kind of application inside super app&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Ability to invoke super app&amp;nbsp;function from mini app&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Ability to open mini app from any group/chat or user profile&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Opening&amp;nbsp;certain mini app feature from super app&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="70" y="240" width="260" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="eO3oUB2gQDBbp09vtR7Z-10" value="Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="eO3oUB2gQDBbp09vtR7Z-10" value="Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="450" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;App&lt;/font&gt;" style="html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
@@ -48,6 +48,21 @@
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-8" value="Validator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-14" value="Data API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="960" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-19" value="interface Apps {&lt;br&gt;&amp;nbsp; config: Record&amp;lt;id, App&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="960" y="450" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-20" value="interface App {&lt;br&gt;&amp;nbsp; id: string;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp; name: string;&lt;br&gt;&lt;/span&gt;&amp;nbsp; icon: string;&lt;br&gt;&amp;nbsp; need_auth: boolean;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp; external: boolean;&lt;br/&gt;&lt;/span&gt;&amp;nbsp; url: string;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="960" y="550" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-21" value="Get application list from super application configuration when it starts though simple http request" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="960" y="230" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-22" value="interface Config {&lt;br&gt;&amp;nbsp; apps: Array&amp;lt;Apps&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="290" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
