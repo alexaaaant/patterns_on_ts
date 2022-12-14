@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T15:18:26.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="5kdEHf9wx6ayu2p0tb7J" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T15:26:23.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="AVcFrfLDSwWOwtuZIzpm" version="20.6.2" type="github">
   <diagram id="VVtSz9ZrSbKsasLM-zCI" name="Page-1">
     <mxGraphModel dx="1713" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="980" y="620" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-21" value="Get application list from super application configuration when it starts though simple http request&lt;br&gt;&lt;br&gt;GET /config -&amp;gt; Config" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="980" y="230" width="400" height="130" as="geometry" />
+          <mxGeometry x="980" y="230" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-22" value="interface Config {&lt;br&gt;&amp;nbsp; apps: Array&amp;lt;Apps&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="980" y="410" width="290" height="80" as="geometry" />
