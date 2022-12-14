@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T04:39:03.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="crl2ho4dyeJYiGUpu4R2" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T04:56:45.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="INNeSY9CieqXFcX6x1GM" version="20.6.2" type="github">
   <diagram id="VVtSz9ZrSbKsasLM-zCI" name="Page-1">
-    <mxGraphModel dx="1577" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-1" target="eO3oUB2gQDBbp09vtR7Z-2">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="eO3oUB2gQDBbp09vtR7Z-1" target="eO3oUB2gQDBbp09vtR7Z-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-1" value="MiniAppsStore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-2" target="eO3oUB2gQDBbp09vtR7Z-3">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="eO3oUB2gQDBbp09vtR7Z-2" target="eO3oUB2gQDBbp09vtR7Z-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eO3oUB2gQDBbp09vtR7Z-2" value="MiniAppsViewer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eO3oUB2gQDBbp09vtR7Z-2" value="MiniAppViewer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-3" target="n-afK_8kvOXzyBT0Ln1i-8">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="eO3oUB2gQDBbp09vtR7Z-3" target="n-afK_8kvOXzyBT0Ln1i-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-3" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -34,35 +34,44 @@
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-10" value="Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="450" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;App&lt;/font&gt;" style="html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;App&lt;/font&gt;" style="html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="450" y="230" width="420" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-5" value="Chat" style="html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-5" value="Chat" style="html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="740" y="280" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-6" value="Contacts" style="html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-6" value="Contacts" style="html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="605" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-7" value="MiniApps" style="html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-7" value="MiniApps" style="html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="465" y="380" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-8" value="Validator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-8" value="Validator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-14" value="Data API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-14" value="Data API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="960" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-19" value="interface Apps {&lt;br&gt;&amp;nbsp; config: Record&amp;lt;id, App&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="980" y="450" width="290" height="80" as="geometry" />
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-19" value="interface Apps {&lt;br&gt;&amp;nbsp; config: Record&amp;lt;id, App&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="980" y="520" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-20" value="interface App {&lt;br&gt;&amp;nbsp; id: string;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp; name: string;&lt;br&gt;&lt;/span&gt;&amp;nbsp; icon: string;&lt;br&gt;&amp;nbsp; need_auth: boolean;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp; external: boolean;&lt;br/&gt;&lt;/span&gt;&amp;nbsp; url: string;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="980" y="550" width="210" height="200" as="geometry" />
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-20" value="interface App {&lt;br&gt;&amp;nbsp; id: string;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp; name: string;&lt;br&gt;&lt;/span&gt;&amp;nbsp; icon: string;&lt;br&gt;&amp;nbsp; need_auth: boolean;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp; external: boolean;&lt;br/&gt;&lt;/span&gt;&amp;nbsp; url: string;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="980" y="620" width="210" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-21" value="Get application list from super application configuration when it starts though simple http request" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="980" y="230" width="400" height="90" as="geometry" />
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-21" value="Get application list from super application configuration when it starts though simple http request&lt;br&gt;&lt;br&gt;GET /config -&amp;gt; Config" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="980" y="230" width="400" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-22" value="interface Config {&lt;br&gt;&amp;nbsp; apps: Array&amp;lt;Apps&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="980" y="340" width="290" height="80" as="geometry" />
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-22" value="interface Config {&lt;br&gt;&amp;nbsp; apps: Array&amp;lt;Apps&amp;gt;;&lt;br&gt;}" style="html=1;fontSize=19;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="980" y="410" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sx9sKbx9zc4dASjToYi-1" value="Data Entities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1360" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sx9sKbx9zc4dASjToYi-5" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;MiniAppViewer&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ appData: App&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- iframeElement: IFrame&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ open()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ close()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- postMessageListener()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- bridgeEventsListener()&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="230" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sx9sKbx9zc4dASjToYi-6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;MiniAppsStore&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ viewers: Record&amp;lt;id, MiniAppViewer&amp;gt;;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ opened: id;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ loaded: Set&amp;lt;id&amp;gt;;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ open()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ close()&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="230" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
