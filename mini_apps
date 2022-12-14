@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T15:15:53.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="8m96aN-iS9HQ_DDwM-D4" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T15:18:26.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="5kdEHf9wx6ayu2p0tb7J" version="20.6.2" type="github">
   <diagram id="VVtSz9ZrSbKsasLM-zCI" name="Page-1">
-    <mxGraphModel dx="1449" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="2Sx9sKbx9zc4dASjToYi-11" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Bridge&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;+ waitingReq: Record&amp;lt;reqId, promise&amp;gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ send()&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="490" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sx9sKbx9zc4dASjToYi-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Validator&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;- json scheme&lt;/p&gt;&lt;hr style=&quot;font-size: 15px;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;+ validation()&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="700" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
