@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T04:22:18.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="i8rtrniEVM5mNPAdRts5" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T04:26:44.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="vH_bkNblacyJazhMaq8x" version="20.6.2" type="github">
   <diagram id="VVtSz9ZrSbKsasLM-zCI" name="Page-1">
-    <mxGraphModel dx="1577" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-1" target="eO3oUB2gQDBbp09vtR7Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-1" value="MiniAppsStore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-2" target="eO3oUB2gQDBbp09vtR7Z-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-2" value="MiniAppsViewer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-3" target="n-afK_8kvOXzyBT0Ln1i-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-3" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-6" value="Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="70" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eO3oUB2gQDBbp09vtR7Z-7" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Non-functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Scalability&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Supporting web and desktop firstly&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Internalisation&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Themes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Scalable way of&amp;nbsp;communication between super app and mini-apps&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="70" y="460" width="260" height="150" as="geometry" />
+        <mxCell id="eO3oUB2gQDBbp09vtR7Z-7" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Non-functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Scalability&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Supporting web and desktop firstly&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Internalisation&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Themes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Scalable way of&amp;nbsp;communication between super app and mini-apps&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Open mini app in a new tab until they are supported&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="70" y="460" width="260" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="eO3oUB2gQDBbp09vtR7Z-8" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;opening any kind of application inside super app&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;ability to invoke super app&amp;nbsp;function from mini app&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;ability to open mini app from any group/chat or user profile&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;opening&amp;nbsp;certain mini app feature from super app&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="eO3oUB2gQDBbp09vtR7Z-8" value="&lt;div&gt;&lt;font size=&quot;2&quot;&gt;Functional&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Opening any kind of application inside super app&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Ability to invoke super app&amp;nbsp;function from mini app&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Ability to open mini app from any group/chat or user profile&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Opening&amp;nbsp;certain mini app feature from super app&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="70" y="240" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="eO3oUB2gQDBbp09vtR7Z-10" value="Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="450" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-2" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-2" target="eO3oUB2gQDBbp09vtR7Z-1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1040" y="540" as="sourcePoint" />
-            <mxPoint x="1200" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n-afK_8kvOXzyBT0Ln1i-3" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eO3oUB2gQDBbp09vtR7Z-2" target="eO3oUB2gQDBbp09vtR7Z-3">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1040" y="540" as="sourcePoint" />
-            <mxPoint x="1200" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;App&lt;/font&gt;" style="html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="450" y="310" width="420" height="230" as="geometry" />
+          <mxGeometry x="450" y="230" width="420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-5" value="Chat" style="html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="740" y="360" width="110" height="50" as="geometry" />
+          <mxGeometry x="740" y="280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-6" value="Contacts" style="html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="605" y="400" width="110" height="50" as="geometry" />
+          <mxGeometry x="605" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n-afK_8kvOXzyBT0Ln1i-7" value="MiniApps" style="html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="465" y="460" width="110" height="50" as="geometry" />
+          <mxGeometry x="465" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n-afK_8kvOXzyBT0Ln1i-8" value="Validator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
